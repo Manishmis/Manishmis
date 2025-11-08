@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishmish" alt="manishmish" /></a> </p>
 
-- 🔭 I’m currently working on *Syntax checker tool*
+- 🔭 I’m currently working on *Community cleaning website*
 
 - 📫 How to reach me *manish2312res369@iitp.ac.in*
 
